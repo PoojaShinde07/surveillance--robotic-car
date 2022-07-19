@@ -1,1 +1,3 @@
-# surveillance--robotic-car
+# surveillance-robotic-car
+
+Motion (Surveillance Software) is free, open source motion detector CCTV software, developed for Linux. It detects the motion and start recording video of it. With ‘Motion’ installed in your Raspberry Pi, you can magically turn your Raspberry Pi into a Security Camera. It is used for getting live video feed, making timelapse videos and taking snapshots at regular interval. It records and saves the Video whenever it detects Motion or any disturbance in the view area. Live Video feed can be watched on the web browser by entering the IP address of Pi along with the port.
